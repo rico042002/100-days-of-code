@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: July 1, 2021 (STARTING DAY!!)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished Basic HTML and HTML5 section of FreeCodeCamp
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Starting over from scratch. Taking this challenge in order to push myself to actually create content, so I can make a few mock websites and apps, learn how to solve algorithm problems! I have attempted 100 days of code unsuccessfully 3 times before this, my best record is 48 days. With that being known, I don't plan on failing this time. I'm ready to grind and learn, take the necessary steps in order to be one the best...
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
