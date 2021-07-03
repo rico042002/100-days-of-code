@@ -17,7 +17,15 @@
 
 **Link to work**: [Introduction to HTML](https://frontendmasters.com/bootcamp/introduction-html/)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 3: July 3, 2021
+
+**Today's Progress**: Read Chapter 1&2 of Interneting Is Hard
+
+**Thoughts**: Continuing my refresh on HTML, will be done with it and starting CSS sections of the book, course, and FCC by day 5.
+
+**Link to work**: [Interneting Is Hard-Basic Web Pages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
+
+### Day 0: February 30, 2021 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -25,6 +33,7 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
+
 
 ### Day 1: June 27, Monday
 
