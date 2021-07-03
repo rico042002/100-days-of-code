@@ -8,6 +8,15 @@
 
 **Link to work:** [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
+### Day 2: July 2, 2021 
+##### (delete me or comment me out)
+
+**Today's Progress**: Completed FrontEnd Masters Bootcamp "Introduction to HTML" section
+
+**Thoughts**: Sticking to HTML, going to rotate between a video course, a book, and hands on exercises every day. I still need to finish a Metrix Learning course for the workforce. Starting InternetingIsHard book tomorrow. Instead of timing myself this round Im going to finish sections of whatever im working on, no matter how long they may take.
+
+**Link to work**: [Introduction to HTML](https://frontendmasters.com/bootcamp/introduction-html/)
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
@@ -16,7 +25,6 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
-
 
 ### Day 1: June 27, Monday
 
