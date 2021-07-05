@@ -9,7 +9,6 @@
 **Link to work:** [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
 ### Day 2: July 2, 2021 
-##### (delete me or comment me out)
 
 **Today's Progress**: Completed FrontEnd Masters Bootcamp "Introduction to HTML" section
 
