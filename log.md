@@ -25,6 +25,16 @@
 
 **Link to work**: [Interneting Is Hard-Basic Web Pages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
 
+### Day 4: July 4, 2021 (Happy 4th of July 🎆)
+
+**Today's Progress**: Read Chapter 3 of Interneting Is Hard
+
+**Thoughts**: Chapter 3 was the final book chapter of basic HTML in Interneting is Hard. I will complete W3schools HTML exercises and quiz tomorrow, then im starting Traversy media's HTML&CSS Playlist on Youtube with over 50 projects, I also purchased his Modern HTML&CSS course on Udemy. So I need to finish the workforce course so I can add that to my to-do list. Ive been focusing on HTML for the for the first seven days, CSS will be next. 
+
+**Link(s) to work**: 
+1. [Interneting Is Hard-Links And Images](https://www.internetingishard.com/html-and-css/links-and-images/)
+2. [Traversy Media-HTML & CSS YouTube Playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
+
 ### Day 0: February 30, 2021 (Example 2)
 ##### (delete me or comment me out)
 
@@ -33,6 +43,7 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
+
 
 
 ### Day 1: June 27, Monday
