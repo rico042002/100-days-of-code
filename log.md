@@ -38,7 +38,7 @@
 
 **Today's Progress**: Scored a 95% on W3Schools HTML quiz, 38/40 correct. I also completed Traversy Media's HTML Crash Course
 
-**Thoughts**: I have completely refreshed on HTML, learned some new tags and hotkeys along the way. A lot of people think they have HTML down but I find that at least 5 new tags are added since the last time Ive done a beginner course every 6-8 months. So that part where developers are students for life is completely true. I will be starting CSS a little early, but my focus on it might take up the initial two extra days I have remaining from HTML giving me 9-10 days of CSS. Flexbox and Grid can easily take up 4 days easily. 
+**Thoughts**: I have completely refreshed on HTML, learned some new tags and hotkeys along the way. A lot of people think they have HTML down but I find that at least 5 new tags have been added since the last time Ive done a beginner course. So that part where developers are students for life is completely true. I will be starting CSS a little early, but my focus on it might take up the initial two extra days I have remaining from HTML giving me 9-10 days of CSS. Flexbox and Grid can easily take up 4 days easily. So tomorrow is FreeCodeCamp's CSS section and FrontEnd Masters CSS bootcamp section. 
 
 **Link(s) to work**: 
 1. [HTML Crash Course](https://youtu.be/UB1O30fR-EE)
