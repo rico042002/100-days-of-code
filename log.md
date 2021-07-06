@@ -34,6 +34,16 @@
 1. [Interneting Is Hard-Links And Images](https://www.internetingishard.com/html-and-css/links-and-images/)
 2. [Traversy Media-HTML & CSS YouTube Playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
 
+### Day 5: July 5, 2021
+
+**Today's Progress**: Scored a 95% on W3Schools HTML quiz, 38/40 correct. I also completed Traversy Media's HTML Crash Course
+
+**Thoughts**: I have completely refreshed on HTML, learned some new tags and hotkeys along the way. A lot of people think they have HTML down but I find that at least 5 new tags are added since the last time Ive done a beginner course every 6-8 months. So that part where developers are students for life is completely true. I will be starting CSS a little early, but my focus on it might take up the initial two extra days I have remaining from HTML giving me 9-10 days of CSS. Flexbox and Grid can easily take up 4 days easily. 
+
+**Link(s) to work**: 
+1. [HTML Crash Course](https://youtu.be/UB1O30fR-EE)
+2. [HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
+
 ### Day 0: February 30, 2021 (Example 2)
 ##### (delete me or comment me out)
 
@@ -42,8 +52,6 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
-
-
 
 ### Day 1: June 27, Monday
 
