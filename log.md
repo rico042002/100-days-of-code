@@ -4,7 +4,7 @@
 
 **Today's Progress**: Finished Basic HTML and HTML5 section of FreeCodeCamp
 
-**Thoughts:** Starting over from scratch. Taking this challenge in order to push myself to actually create content, so I can make a few mock websites and apps, learn how to solve algorithm problems! I have attempted 100 days of code unsuccessfully 3 times before this, my best record is 48 days. With that being known, I don't plan on failing this time. I'm ready to grind and learn, take the necessary steps in order to be one the best...
+**Thoughts:** Starting over from scratch. Taking this challenge to push me to actually create content, so I can make a few mock websites and apps, learn how to solve algorithm problems! I have attempted 100 days of code unsuccessfully 3 times before this, my best record is 48 days. With that being known, I don't plan on failing this time. I'm ready to grind and learn, take the necessary steps to be one the best...
 
 **Link to work:** [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
@@ -12,13 +12,13 @@
 
 **Today's Progress**: Completed FrontEnd Masters Bootcamp "Introduction to HTML" section
 
-**Thoughts**: Sticking to HTML, going to rotate between a video course, a book, and hands on exercises every day. I still need to finish a Metrix Learning course for the workforce. Starting InternetingIsHard book tomorrow. Instead of timing myself this round Im going to finish sections of whatever im working on, no matter how long they may take.
+**Thoughts**: Sticking to HTML, going to rotate between a video course, a book, and hands-on exercises every day. I still need to finish a Metrix Learning course for the workforce. Starting InternetingIsHard book tomorrow. Instead of timing myself, this round I'm going to finish sections of whatever I'm working on, no matter how long they may take.
 
 **Link to work**: [Introduction to HTML](https://frontendmasters.com/bootcamp/introduction-html/)
 
 ### Day 3: July 3, 2021
 
-**Today's Progress**: Read Chapter 1&2 of Interneting Is Hard
+**Today's Progress**: Read Chapters 1&2 of Interneting Is Hard
 
 **Thoughts**: Continuing my refresh on HTML, will be done with it and starting CSS sections of the book, course, and FCC by day 5.
 
@@ -28,7 +28,7 @@
 
 **Today's Progress**: Read Chapter 3 of Interneting Is Hard
 
-**Thoughts**: Chapter 3 was the final book chapter of basic HTML in Interneting is Hard. I will complete W3schools HTML exercises and quiz tomorrow, then im starting Traversy media's HTML&CSS Playlist on Youtube with over 50 projects, I also purchased his Modern HTML&CSS course on Udemy. So I need to finish the workforce course so I can add that to my to-do list. Ive been focusing on HTML for the for the first seven days, CSS will be next. 
+**Thoughts**: Chapter 3 was the final book chapter of basic HTML in Interneting is Hard. I will complete W3schools HTML exercises and quiz tomorrow, then I'm starting Traversy media's HTML&CSS Playlist on Youtube with over 50 projects, I also purchased his Modern HTML&CSS course on Udemy. So I need to finish the workforce course so I can add that to my to-do list. I've been focusing on HTML for the first seven days, CSS will be next. 
 
 **Link(s) to work**: 
 1. [Interneting Is Hard-Links And Images](https://www.internetingishard.com/html-and-css/links-and-images/)
@@ -38,11 +38,21 @@
 
 **Today's Progress**: Scored a 95% on W3Schools HTML quiz, 38/40 correct. I also completed Traversy Media's HTML Crash Course
 
-**Thoughts**: I have completely refreshed on HTML, learned some new tags and hotkeys along the way. A lot of people think they have HTML down but I find that at least 5 new tags have been added since the last time Ive done a beginner course. So that part where developers are students for life is completely true. I will be starting CSS a little early, but my focus on it might take up the initial two extra days I have remaining from HTML giving me 9-10 days of CSS. Flexbox and Grid can easily take up 4 days easily. So tomorrow is FreeCodeCamp's CSS section and FrontEnd Masters CSS bootcamp section. 
+**Thoughts**: I have completely refreshed on HTML, learned some new tags and hotkeys along the way. A lot of people think they have HTML down but I find that at least 5 new tags have been added since the last time I've done a beginner course. So that part where developers are students for life is completely true. I will be starting CSS a little early, but my focus on it might take up the initial two extra days I have remaining from HTML giving me 9-10 days of CSS. Flexbox and Grid can take up to 4 days easily. So tomorrow is FreeCodeCamp's CSS section and FrontEnd Masters CSS boot camp section. 
 
 **Link(s) to work**: 
 1. [HTML Crash Course](https://youtu.be/UB1O30fR-EE)
 2. [HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
+
+### Day 6: July 6, 2021 
+
+**Today's Progress**: FreeCodeCamp Basic CSS, 30min of Traversy Media CSS Crash Course
+
+**Thoughts**: I'm doing good and enjoying learning this time, I'm not really tracking how much time I spend coding and it seems to take the edge off. I've heard people say that the Pomodoro technique is distracting because it interrupts you in the flow of work. I'm starting to see what they mean, I easily did an hour and a half of coding today but because I didn't stop during the time of studying, I got more of it done. I'm going to finish the Traversy Media video tomorrow and start on the Front End Masters CSS, probably start reading the InternetingIsHard CSS also. 
+
+**Link(s) to work**: 
+1. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
+2. [CSS Crash Course](https://youtu.be/yfoY53QXEnI)
 
 ### Day 0: February 30, 2021 (Example 2)
 ##### (delete me or comment me out)
