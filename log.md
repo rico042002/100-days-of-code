@@ -1,3 +1,4 @@
+
 # 100 Days Of Code - Log
 
 ### Day 1: July 1, 2021 (STARTING DAY!!)
