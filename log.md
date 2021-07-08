@@ -56,6 +56,22 @@
 1. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
 2. [CSS Crash Course](https://youtu.be/yfoY53QXEnI)
 
+### Day 7: July 7, 2021
+
+**Today's Progress**: Contiued Traversy Medias CSS Crash Course
+
+**Thoughts**: <div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/mflnXXkPPT0uA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/excited-regular-show-mflnXXkPPT0uA">via GIPHY</a></p> First Week! I continued the CSS Crash Course, should be done with it by tomorrow, then its on to InternetingIsHard CSS chapter.
+
+**Link(s) to work**: [Calculator App](http://www.example.com)
+
+### Day 8: July 8, 2021
+
+**Today's Progress**: Finished CSS Crash Course by Traversy Media
+
+**Thoughts**: Continuing my CSS time box, I have a lot to learn, and im considering playing the CSS diner game during my sparetime so I can get some extra practice.
+
+**Link(s) to work**: [Calculator App](http://www.example.com)
+
 ### Day 0: February 30, 2021 (Example 2)
 ##### (delete me or comment me out)
 
