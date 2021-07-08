@@ -60,7 +60,7 @@
 
 **Today's Progress**: Contiued Traversy Medias CSS Crash Course
 
-**Thoughts**: <div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/mflnXXkPPT0uA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/excited-regular-show-mflnXXkPPT0uA">via GIPHY</a></p> First Week! I continued the CSS Crash Course, should be done with it by tomorrow, then its on to InternetingIsHard CSS chapter.
+**Thoughts**: ![100 Days Of Code](https://github.com/rico042002/100-days-of-code/blob/master/giphy.gif?raw=true) First Week! I continued the CSS Crash Course, should be done with it by tomorrow, then its on to InternetingIsHard CSS chapter.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
