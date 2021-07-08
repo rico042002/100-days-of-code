@@ -56,10 +56,8 @@
 1. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
 2. [CSS Crash Course](https://youtu.be/yfoY53QXEnI)
 
-### Day 7: July 7, 2021 (Week One)
-<div>
-![100 Days Of Code](https://github.com/rico042002/100-days-of-code/blob/master/giphy.gif?raw=true)
-  </div>
+### Day 7: July 7, 2021 (Week One) ![100 Days Of Code](https://github.com/rico042002/100-days-of-code/blob/master/giphy.gif?raw=true)
+ 
 **Today's Progress**: Contiued Traversy Medias CSS Crash Course
 
 **Thoughts**: First Week! I continued the CSS Crash Course, should be done with it by tomorrow, then its on to InternetingIsHard CSS chapter.
