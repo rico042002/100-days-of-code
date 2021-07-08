@@ -56,13 +56,13 @@
 1. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
 2. [CSS Crash Course](https://youtu.be/yfoY53QXEnI)
 
-### Day 7: July 7, 2021
-
+### Day 7: July 7, 2021 (Week One)
+![100 Days Of Code](https://github.com/rico042002/100-days-of-code/blob/master/giphy.gif?raw=true)
 **Today's Progress**: Contiued Traversy Medias CSS Crash Course
 
-**Thoughts**: ![100 Days Of Code](https://github.com/rico042002/100-days-of-code/blob/master/giphy.gif?raw=true) First Week! I continued the CSS Crash Course, should be done with it by tomorrow, then its on to InternetingIsHard CSS chapter.
+**Thoughts**: First Week! I continued the CSS Crash Course, should be done with it by tomorrow, then its on to InternetingIsHard CSS chapter.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [CSS Crash Course](https://youtu.be/yfoY53QXEnI)
 
 ### Day 8: July 8, 2021
 
@@ -70,7 +70,9 @@
 
 **Thoughts**: Continuing my CSS time box, I have a lot to learn, and im considering playing the CSS diner game during my sparetime so I can get some extra practice.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
+1. [CSS Crash Course](https://youtu.be/yfoY53QXEnI)
+2. [CSS Diner](https://flukeout.github.io/)
 
 ### Day 0: February 30, 2021 (Example 2)
 ##### (delete me or comment me out)
