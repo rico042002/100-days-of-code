@@ -75,7 +75,31 @@
 1. [CSS Crash Course](https://youtu.be/yfoY53QXEnI)
 2. [CSS Diner](https://flukeout.github.io/)
 
-### Day 0: February 30, 2021 (Example 2)
+### Day 9: July 9, 2021 
+
+**Today's Progress**: Started Chapter 4, Hello-CSS of InternetingIsHard book
+
+**Thoughts**: Light refresh on beginner CSS, learning how markup and proper CSS are the building blocks of a good Web Developer.
+
+**Link(s) to work**: [InternetingIsHard-Hello-CSS](https://www.internetingishard.com/html-and-css/hello-css/)
+
+### Day 10: July 10, 2021 
+
+**Today's Progress**: Finished Chapter 4, Hello-CSS
+
+**Thoughts**: Light study day, only coded about an hour today. Going to try to get more done tomorrow.
+
+**Link(s) to work**: [InternetingIsHard-Hello-CSS](https://www.internetingishard.com/html-and-css/hello-css/)
+
+### Day 11: July 11, 2021 
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**: [Calculator App](http://www.example.com)
+
+### Day 0: July #, 2021 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
