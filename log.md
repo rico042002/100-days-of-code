@@ -109,12 +109,12 @@
 
 ### Day 13: July 13, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued FrontEnd Masters Bootcamp - Introduction to CSS section 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: The FrontEnd Masters CSS section is four hours so I did two hours of study time today to be able to finish tomorrow.
 
 **Link(s) to work**:
-1. [FrontEnd Masters Bootcamp-Introduction-CSS](https://frontendmasters.com/bootcamp/introduction-css)
+1. [FrontEnd Masters Bootcamp-Introduction-CSS/CSS Layout](https://frontendmasters.com/bootcamp/introduction-css/vertical-navigation-bar-styling/)
 2. [FrontEnd Masters Bootcamp-CodePen Exercise](https://codepen.io/rico042002/full/XWRpgeb)
 
 
