@@ -16,7 +16,7 @@
 
 **Thoughts**: Sticking to HTML, going to rotate between a video course, a book, and hands-on exercises every day. I still need to finish a Metrix Learning course for the workforce. Starting InternetingIsHard book tomorrow. Instead of timing myself, this round I'm going to finish sections of whatever I'm working on, no matter how long they may take.
 
-**Link to work**: [Introduction to HTML](https://frontendmasters.com/bootcamp/introduction-html/)
+**Link to work**: [FrontEnd Masters Bootcamp-Introduction to HTML](https://frontendmasters.com/bootcamp/introduction-html/)
 
 ### Day 3: July 3, 2021
 
@@ -81,7 +81,7 @@
 
 **Thoughts**: Light refresh on beginner CSS, learning how markup and proper CSS are the building blocks of a good Web Developer.
 
-**Link(s) to work**: [InternetingIsHard-Hello-CSS](https://www.internetingishard.com/html-and-css/hello-css/)
+**Link(s) to work**: [Interneting Is Hard-Hello-CSS](https://www.internetingishard.com/html-and-css/hello-css/)
 
 ### Day 10: July 10, 2021 
 
@@ -89,15 +89,34 @@
 
 **Thoughts**: Light study day, only coded about an hour today. Going to try to get more done tomorrow.
 
-**Link(s) to work**: [InternetingIsHard-Hello-CSS](https://www.internetingishard.com/html-and-css/hello-css/)
+**Link(s) to work**: [Interneting Is Hard-Hello-CSS](https://www.internetingishard.com/html-and-css/hello-css/)
 
 ### Day 11: July 11, 2021 
+
+**Today's Progress**: Started FrontEnd Masters Bootcamp - Introduction to CSS section 
+
+**Thoughts**: Didn't study long but started the bootcamp CSS section, and got HTML files setup. Also did some reading about CSS specifity.
+
+**Link(s) to work**: [FrontEnd Masters Bootcamp-Introduction-CSS](https://frontendmasters.com/bootcamp/introduction-css)
+
+### Day 12: July 12, 2021 
+
+**Today's Progress**: Continued FrontEnd Masters Bootcamp - Introduction to CSS section 
+
+**Thoughts**: I have plenty of CSS work to do, still gotta refresh on the basics and get to flexbox and advanced positioning topics. I need to get to flexbox so I can continue the Traversy Road Map, the next video is a 20min discusson on flexbox and I need to finish all the basic stuff first. I also have some basic CSS left in FreeCodeCamp and Interneting Is Hard. 
+
+**Link(s) to work**: [FrontEnd Masters Bootcamp-Introduction-CSS](https://frontendmasters.com/bootcamp/introduction-css)
+
+### Day 13: July 13, 2021 
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
+1. [FrontEnd Masters Bootcamp-Introduction-CSS](https://frontendmasters.com/bootcamp/introduction-css)
+2. [FrontEnd Masters Bootcamp-CodePen Exercise](https://codepen.io/rico042002/full/XWRpgeb)
+
 
 ### Day 0: July #, 2021 
 ##### (delete me or comment me out)
