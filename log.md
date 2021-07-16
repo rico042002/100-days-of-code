@@ -118,6 +118,24 @@
 2. [FrontEnd Masters Bootcamp-CodePen Exercise](https://codepen.io/rico042002/full/XWRpgeb)
 
 
+### Day 14: July 14, 2021 
+
+**Today's Progress**: Continued FrontEnd Masters Bootcamp - Introduction to CSS section 
+
+**Thoughts**: Continued the layout section of the Bootcamp, Still not done with the CSS section though.
+
+**Link(s) to work**: [FrontEnd Masters Bootcamp-Introduction-CSS](https://frontendmasters.com/bootcamp/introduction-css)
+
+### Day 15: July 15, 2021 
+
+**Today's Progress**: Read a little about floats, 30mins of the bootcamp
+
+**Thoughts**: I really need to finish this CSS section! CSS has never been easy, I'm doing my best to make my websites more presentable and responsive so this may be the part I need to pay attention to the most.
+
+**Link(s) to work**:
+1. [FrontEnd Masters Bootcamp-Introduction-CSS](https://frontendmasters.com/bootcamp/introduction-css)
+2. [Floatutorial](http://css.maxdesign.com.au/floatutorial/)
+
 ### Day 0: July #, 2021 
 ##### (delete me or comment me out)
 
