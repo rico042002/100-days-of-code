@@ -136,6 +136,14 @@
 1. [FrontEnd Masters Bootcamp-Introduction-CSS](https://frontendmasters.com/bootcamp/introduction-css)
 2. [Floatutorial](http://css.maxdesign.com.au/floatutorial/)
 
+### Day 16: July 16, 2021 
+
+**Today's Progress**: Made it to the Flexbox CSS section of the FrontEnd Masters Bootcamp
+
+**Thoughts**: Did the book markup exercise on codepen, starting flexbox tomorrow, going to probably read from interneting is hard and do a FCC lesson also.
+
+**Link(s) to work**: [Book mark up Codepen](https://codepen.io/rico042002/full/yLbbXjG)
+
 ### Day 0: July #, 2021 
 ##### (delete me or comment me out)
 
@@ -144,7 +152,6 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
-
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
